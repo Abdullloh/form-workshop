@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background: #2e2c3a;
+  color: #feffff;
+}
+section {
+  background: #2a3350;
+  height: 460px;
+  width: 350px;
+  float: left;
+  position: relative;
+  left: 290px;
+  top: 160px;
+  margin: 15px;
+  text-align: center;
+}
+img {
+  border-radius: 50%;
+}
+h1 {
+  text-align: center;
+  position: relative;
+  top: 150px;
+}
+div {
+  line-height: 45px;
+}
+form {
+  color: white;
+}
+input {
+  text-align: center;
+  height: 28px;
+  background: #2a3350;
+  color: white;
+  border-width: 1px;
+  border-style: inset;
+  width: 280px;
+}
+input [placeholder] {
+  color: white;
+}
