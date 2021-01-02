@@ -38,6 +38,7 @@ input {
   border-width: 1px;
   border-style: inset;
   width: 280px;
+  border-color: white;
 }
 input [placeholder] {
   color: white;
